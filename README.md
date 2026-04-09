@@ -68,5 +68,3 @@ npm run preview
 **Contributing**
 - Feel free to open issues or PRs to improve visualizations, add tests, or expand datasets.
 
-**License**
-- Add a license as appropriate for your organization or project.
